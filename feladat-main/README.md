@@ -1,0 +1,2 @@
+# feladat
+kiraly vagyok
